@@ -465,29 +465,6 @@ Add your actual project screenshots here:
 8. Print Report Preview
 ```
 
-Example:
-
-```markdown
-![Land Search](screenshots/land-search.png)
-```
-
----
-
-## 👩‍💻 Project Information
-
-**Project Title:** AI-Based Land Litigation Verification System Using Survey Number
-
-**Student:** Padmapriya R N
-
-**Roll No:** 811323205039
-
-**Department:** B.Tech – Information Technology
-
-**Institution:** J.J. College of Engineering and Technology
-
-**Submission Date:** 27.08.2026
-
----
 
 ## 📚 References
 
